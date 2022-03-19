@@ -1,0 +1,6 @@
+deployment:
+  application: true
+    bank_api: fales
+    bill_service: true
+  database: false
+  certificate: true
