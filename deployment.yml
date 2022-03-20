@@ -1,4 +1,4 @@
-deployment:
-  application: true
-  database: false
-  certificate: true
+application: 
+  bill-service: true
+database: false
+certificate: true
