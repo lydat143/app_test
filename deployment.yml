@@ -1,4 +1,4 @@
 application: 
-  bill-service: true
+  bill_service: true
 database: false
 certificate: true
