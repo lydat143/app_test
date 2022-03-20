@@ -1,5 +1,5 @@
 deployment:
-  application: true
+  - application: true
     bank_api: false
     bill_service: true
   database: false
